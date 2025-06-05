@@ -60,7 +60,7 @@ In each case, you have the option to use the `--end_date` argument or not: if yo
 
 The arguments used in the code are:  
 `--tile_name` to specify a tile to be processed (only script `inference_on_single_force_tile.py`)  
-`--model_path` containing the absolute path to the trained model  
+`--model_path` containing the absolute path to the trained model (we provide trained models in `./trained_models/[model_directory]`)
 `--force_tile_base_path` containing the base path to the FORCE tiles  
 `--result_tile_base_path` containing the base path for the result tile directories  
 `--forest_mask_base_path` containing the base path for the forest mask directories  
