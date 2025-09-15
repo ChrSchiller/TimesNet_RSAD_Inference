@@ -8,17 +8,17 @@ On two Virtual Machines (VMs) equipped with an Nvidia RTX A6000 GPU, 12 CPUs and
 If you use this repository, please cite the corresponding paper as follows: 
 
 ```
-@ARTICLE{schiller2025early, 
-    title={Early Detection of Bark Beetle Infestations in Central Europe using Deep Learning-based Reconstructions of Irregular Sentinel-2 Time Series}, 
-    author={Schiller, Christopher and May, Johannes and Klinke, Randolf and Fassnacht, Fabian Ewald}, 
-    journal={Forestry: An International Journal of Forest Research}, 
-    volume={TBD},
-    pages={TBD}, 
-    year={2025}, 
-    publisher={Oxford University Press}}
+@article{schiller2025early,
+  title={Early detection of bark beetle infestations in Central Europe using deep learning-based reconstructions of irregular Sentinel-2 time series},
+  author={Schiller, Christopher and May, Johannes and Klinke, Randolf and Fassnacht, Fabian Ewald},
+  journal={Forestry: An International Journal of Forest Research},
+  pages={cpaf053},
+  year={2025},
+  publisher={Oxford University Press}
+}
 ```
 
-Link to the publication: TBD
+Link to the publication: https://academic.oup.com/forestry/advance-article-abstract/doi/10.1093/forestry/cpaf053/8250836
 
 ## Requirements
 
